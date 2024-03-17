@@ -9,5 +9,3 @@ class Contoh1 extends CI_Controller
                  suka ngulih hal-hal baru";
     }
 }
-
-?>
